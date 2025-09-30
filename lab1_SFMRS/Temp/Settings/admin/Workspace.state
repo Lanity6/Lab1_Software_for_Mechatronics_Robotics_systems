@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<State Top="0" Left="0" Width="0" Height="0" WindowState="Normal" xmlns="http://br-automation.co.at/AS/State">
+  <TextEdit ID="C:\KRBO0222\lab1_pomer_xhto\Logical\Program\Main.c" CaretLine="20" CaretColumn="21" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\KRBO0222\lab1_pomer_xhto\Logical\MotorContr\FB_regulator.c" CaretLine="36" CaretColumn="22" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\KRBO0222\lab1_pomer_xhto\Logical\MotorContr\FB_Integrator.c" CaretLine="14" CaretColumn="15" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\KRBO0222\lab1_pomer_xhto\Logical\MotorContr\FB_motor.c" CaretLine="18" CaretColumn="37" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+</State>
