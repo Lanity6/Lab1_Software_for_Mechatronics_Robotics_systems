@@ -11,8 +11,8 @@ void _INIT ProgramInit(void)
 	speed = 0;
 	
 	fb_regulator.dt = 0.02;
-	fb_regulator.k_p = 0.0016;
-	fb_regulator.k_i = 1.0;
+	fb_regulator.k_p = 0.75;
+	fb_regulator.k_i = 15.0;
 	fb_regulator.max_abs_value=24;
 	
 	fb_motor.dt = 0.02;
